@@ -2,13 +2,13 @@
 
 🎓 **BCA Student**  
 💻 Learning **Programming & Web Development**  
-🚀 Exploring **C, C++, Python, DBMS, GitHub**  
+🚀 Exploring **C, C++, Java, Python, DBMS, GitHub**  
 🎮 Gaming & Tech Enthusiast  
 
 ---
 
 ## 🔧 Skills I'm Learning  
-- **Programming:** C, C++ (OOPs), Python (next sem)  
+- **Programming:** C, C++ (OOPs), Java, Python  
 - **Databases:** SQL, DBMS (MySQL / MS Access)  
 - **Web Basics:** HTML, CSS (beginner)  
 - **Tools:** Git & GitHub  
