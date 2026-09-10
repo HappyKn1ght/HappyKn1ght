@@ -30,4 +30,5 @@ My collection of BCA programming assignments and practice codes.
 ---
 
 ## 🌐 Connect with Me  
-- GitHub: [HappyKn1ght](https://github.com/HappyKn1ght)  
+- GitHub  : [HappyKn1ght](https://github.com/HappyKn1ght)  
+- Linkedin: [YashwantKumar](https://www.linkedin.com/in/yashwant-kumar-50a6793a2/)  
