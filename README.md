@@ -24,7 +24,8 @@
 ---
 
 ## 📂 Featured Repository  
-👉 [BCA-Assignments](https://github.com/HappyKn1ght/BCA-Assignments)  
+👉 [BCA-Assignments](https://github.com/HappyKn1ght/BCA-Assignments)
+👉 [Coding-Practice](https://github.com/HappyKn1ght/Coding-Practice)
 My collection of BCA programming assignments and practice codes.  
 
 ---
