@@ -25,10 +25,10 @@
 
 ## 📂 Featured Repositories
 
-👉 [BCA-Assignments](https://github.com/HappyKn1ght/BCA-Assignments)  
+- [📚 BCA-Assignments](https://github.com/HappyKn1ght/BCA-Assignments)  
 My collection of BCA programming assignments and related coursework.
 
-👉 [Coding-Practice](https://github.com/HappyKn1ght/Coding-Practice)  
+- [💻 Coding-Practice](https://github.com/HappyKn1ght/Coding-Practice)  
 My programming and problem-solving practice across different coding platforms and languages.  
 
 ---
