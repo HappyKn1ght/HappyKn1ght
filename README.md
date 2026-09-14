@@ -9,7 +9,7 @@
 
 ## 🔧 Skills I'm Learning  
 - **Programming:** C, C++ (OOPs), Java, Python  
-- **Databases:** SQL, DBMS (MySQL / MS Access)  
+- **Databases:** SQL, DBMS (MySQL)  
 - **Web Basics:** HTML, CSS (beginner)  
 - **Tools:** Git & GitHub  
 
